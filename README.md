@@ -10,5 +10,5 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 - [RAINYDAYS](https://rainydays-tomanking.netlify.app/)
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=TomAnKing)
+![TomAnKing's github stats](https://github-readme-stats.vercel.app/api?username=TomAnKing&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomAnKing&layout=compact&langs_count=8"/>
