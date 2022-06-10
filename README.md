@@ -7,5 +7,5 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 - [Holidaze](https://holidaze-tomanking.netlify.app/)
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=TomAnKing)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=TomAnKing)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomAnKing)
