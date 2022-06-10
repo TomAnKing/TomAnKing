@@ -13,7 +13,7 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 - Next.js
 - Typescript
 
-## Some of my projects
+## Some of my projects :computer:
 
 - :earth_americas: [Holidaze](https://holidaze-tomanking.netlify.app/)
 - :golf: [The Golf Blog](https://golfblogv2-tomandre-kingestad.netlify.app/index.html)
