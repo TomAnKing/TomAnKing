@@ -25,7 +25,7 @@ If you have any questions or want to contact me you can send me an email or send
 
 - tommy996633@gmail.com
 
-- [Instagram](https://www.instagram.com/tomanking/)
+- :speech_balloon: [Instagram](https://www.instagram.com/tomanking/)
 
 ## GitHub Stats:
 ![TomAnKing's github stats](https://github-readme-stats.vercel.app/api?username=TomAnKing&show_icons=true&hide_border=true)
