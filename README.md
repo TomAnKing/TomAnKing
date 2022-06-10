@@ -23,7 +23,7 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 
 If you have any questions or want to contact me you can send me an email or send me a message on instagram.
 
-- :email: tommy996633@gmail.com
+- :envelope: tommy996633@gmail.com
 
 - :speech_balloon: [Instagram](https://www.instagram.com/tomanking/)
 
