@@ -5,6 +5,8 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 ## Some of my projects
 
 - [Holidaze](https://holidaze-tomanking.netlify.app/)
+- [The Golf Blog](https://golfblogv2-tomandre-kingestad.netlify.app/index.html)
+- [RAINYDAYS](https://rainydays-tomanking.netlify.app/)
 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=TomAnKing)
