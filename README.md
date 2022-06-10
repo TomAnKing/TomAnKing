@@ -3,7 +3,7 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 
 ## Languages, tools and frameworks I have used:
 
-- HTMl
+- HTML
 - CSS
 - JavaScript
 - SCSS
