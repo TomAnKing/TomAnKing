@@ -19,11 +19,11 @@ My name is Tom-André Kingestad. Im a front-end developer from Sandnes, Norway c
 - [The Golf Blog](https://golfblogv2-tomandre-kingestad.netlify.app/index.html)
 - [RAINYDAYS](https://rainydays-tomanking.netlify.app/)
 
-## Contact Me
+## Contact Me :telephone_receiver:
 
 If you have any questions or want to contact me you can send me an email or send me a message on instagram.
 
-- tommy996633@gmail.com
+- :speech_balloon: tommy996633@gmail.com
 
 - :speech_balloon: [Instagram](https://www.instagram.com/tomanking/)
 
